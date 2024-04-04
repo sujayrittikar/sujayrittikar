@@ -10,4 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sujayrittikar&currStreakNum=2FD3EB&fire=pink&theme=tokyonight-duo&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sujayrittikar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
