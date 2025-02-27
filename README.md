@@ -8,5 +8,3 @@
 sujayrittikar/sujayrittikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sujayrittikar&currStreakNum=2FD3EB&fire=pink&theme=tokyonight-duo&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
