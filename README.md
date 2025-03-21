@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sujayrittikar
 - 👀 I’m interested in Data Engineering, NLP and Conversational AI.
-- 🌱 I’m currently learning NLP
-- 💞️ Researching the multilingual and multimodal world of language models...
+- 🌱 I’m researching the multilingual and multimodal world of language models...
 - 📫 How to reach me - Mail me at suj00rit20@gmail.com
 
 <!---
